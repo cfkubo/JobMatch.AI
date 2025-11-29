@@ -1,0 +1,5 @@
+{
+  "name": "JobMatch AI",
+  "description": "An intelligent job search engine that parses resumes (PDF/Image) using Gemini 2.5 Flash, identifies target companies, and performs grounded searches (including LinkedIn) to find live, relevant job listings.",
+  "requestFramePermissions": []
+}
