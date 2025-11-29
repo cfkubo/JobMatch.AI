@@ -35,8 +35,8 @@ Follow these instructions to set up the project on your local machine.
 
 1.  **Clone the repository** (or download the source code):
     ```bash
-    git clone <repository-url>
-    cd job-match-ai
+    git clone https://github.com/cfkubo/JobMatch.AI
+    cd JobMatch.AI 
     ```
 
 2.  **Install Dependencies**:
@@ -81,6 +81,11 @@ Follow these instructions to set up the project on your local machine.
 This is a client-side application. The API Key is used within the browser. 
 *   **For Local Use:** It is safe to use your key.
 *   **For Public Deployment:** Do not deploy this to a public URL (like Vercel/Netlify) without adding a backend proxy, otherwise your API key will be visible to users in the network tab.
+
+
+![1](demo/1.png)
+![1](demo/2.png)
+![1](demo/3.png)
 
 ## 📄 License
 
